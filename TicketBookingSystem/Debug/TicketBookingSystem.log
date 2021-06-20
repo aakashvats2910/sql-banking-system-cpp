@@ -1,0 +1,3 @@
+﻿  TicketBookingSystem.cpp
+D:\C++\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TicketBookingSystem.vcxproj -> D:\C++\TicketBookingSystem\Debug\TicketBookingSystem.exe

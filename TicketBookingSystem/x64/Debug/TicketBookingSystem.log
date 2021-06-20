@@ -1,0 +1,13 @@
+﻿  TicketBookingSystem.cpp
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(12,19): warning C4101: 'res': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(24,19): warning C4101: 'res': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(50,19): warning C4101: 'res': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(97,16): warning C4101: 'driver': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(116,16): warning C4101: 'driver': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(144,16): warning C4101: 'driver': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(161,16): warning C4101: 'driver': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(163,19): warning C4101: 'res': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(176,16): warning C4101: 'driver': unreferenced local variable
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(141): warning C4715: 'DB_Func::isAuthValid': not all control paths return a value
+D:\C++\TicketBookingSystem\TicketBookingSystem\dbfunc.cpp(158): warning C4715: 'DB_Func::getBalance': not all control paths return a value
+  TicketBookingSystem.vcxproj -> D:\C++\TicketBookingSystem\x64\Debug\TicketBookingSystem.exe
